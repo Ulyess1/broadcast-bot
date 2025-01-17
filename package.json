@@ -1,0 +1,17 @@
+{
+    "name": "broadcast-ulyess",
+    "version": "12.0.0",
+    "description": "Discord Broadcast Bot by Mr-Ulyess",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "Ulyess",
+    "license": "",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "express": "^4.17.1"
+    }
+}
