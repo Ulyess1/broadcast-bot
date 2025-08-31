@@ -673,4 +673,4 @@ client.on("message", async message => {
 
 });
 
-client.login("MTE0MTcwNzEzNzE4MjA3NzAwOQ.GHNXdE.hN8j47JgieVgAg9WVW57bvoW2JTZelNmojDIOU");
+client.login("YOUR BOT KEY");
