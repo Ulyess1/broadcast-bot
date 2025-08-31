@@ -29,8 +29,10 @@ Built with **discord.js** and **express.js**.
    ```bash
    git clone <URL>
 2. Install dependencies :
+   ```bash
    npm install
-3. Configure your bot:
+4. Configure your bot:
+```bash
    - Create a config.json file:
    {
   "Prefix": "!",
@@ -38,7 +40,7 @@ Built with **discord.js** and **express.js**.
   "owners": ["YOUR_DISCORD_USER_ID"],
   "Vip": ["YOUR_SERVER_ID"]
 }
-
+```
 -Prefix → Bot command prefix (default !)
 
 -Time → Delay (in ms) between DMs (default 5000 = 5s)
